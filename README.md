@@ -1,6 +1,6 @@
+> [!NOTE]
 > This is my attempt to render the original text into English.
-> I claim no copyright rights over the original work.
-> This translation is provided for informational and archival purpose only.
+> I claim no copyright rights over the original work and hope that this translation will be useful for informational and archival purposes.
 > 
 > This project was made possible by:
 > - [ImageMagick](https://imagemagick.org/)
@@ -8,7 +8,7 @@
 
 # History of Sanguem Village
 
-Author: Sacchitanand Nadkarni
+**By Sacchitanand Nadkarni**
 
 The name of Sanguem village was not always Sanguem.
 In olden times, the village was called Sangam because of the confluence of two rivers at Taripanto.
@@ -27,9 +27,9 @@ This river originates in Karnataka and flows from Neturlim to Curpem, Curdi, Sal
 As the main part of Sanguem is surrounded by both rivers, it was difficult to settle here.
 The village was spread to Cotarli, Zariwado, Xelpem, Vorkotto, Piraraj, Temchiwado, Salaulim.
 It extended from Uguem to Desaiwado, ?? that was the main part of the village.
-Because Desai of Desaiwado as well as Sawant Desai of Xelpem (now living in Valkini) were the rulers of this entire region.
-Sawant Desai of Xelpem had an encounter with the Portuguese military (TROPA) near Kharkateghati (now near the Civil Court).
-Unfortunately, they could not get timely help from Gauns Desai of Xeldem and many Sawant Desai were killed.
+Because Desais of Desaiwado as well as Sawant Desai of Xelpem (now living in Valkini) were the rulers of this entire region.
+Sawant Desais of Xelpem had an encounter with the Portuguese military (TROPA) near Kharkateghati (now near the Civil Court).
+Unfortunately, they could not get timely help from Gauns Desais of Xeldem and many Sawant Desais were killed.
 
 <!-- 3 -->
 
@@ -37,7 +37,7 @@ I had seen the dilapidated mud 'prison' at Desaiwado many years ago.
 One of the castles of Uguem is still called Vanyamwado.
 While the open maal seen on the way to the chapel is known as Bamanmol.
 A family named Kavade lived there.
-Mr. Vitthal Salelkar (Bilbab) is his son-in-law.
+Mr. Vitthal Salelkar (Bilbaab) is his son-in-law.
 Later, the daughter of this Salelkar, Rajai, her husband belonged to the same family.
 Later this congregation settled in Belgaum.
 Vitthal Mashelkar is from Uguem.
@@ -54,11 +54,11 @@ We were the managers of Hemadbase and the Nadkarni of Kurpe was in charge of the
 We lived in Nadkarni Kirlpal - Kodali area.
 Kirlpal should be the main place of Hemadbarse.
 When you reach Kirlpal village, you can see the remains of the fort.
-Later, our ancestors went into three parts. Sakordekar Nadkarni - Sancordem, while Surlkar Nadkarni - Surla - Tambdi Surla - some of these are still to be said.
-The remaining ancestors except Sakordekar and Suralkar went to Salaulim.
+Later, our ancestors went into three parts. Sancordekar Nadkarni - Sancordem, while Surlakar Nadkarni - Surla - Tambdi Surla - some of these are still to be said.
+The remaining ancestors except Sancordekar and Surlakar went to Salaulim.
 After a while they fell out of there.
 They were two brothers.
-One of them, Vyankaji, stayed at Bena and Vithoba went to Sanvordem - that is, today's Savardekar Nadkarni.
+One of them, Vyankaji, stayed at Bena and Vithoba went to Sanvordem - that is, today's Sanvordekar Nadkarni.
 There is a big chaff tree in front of our house now.
 
 <!-- 5 -->
@@ -128,9 +128,9 @@ The first two-wheeler in the village was owned by Mr. Dinanath Nadkarni.
 
 <!-- 9 -->
 
-Village temples
+## Temples in Sanguem
 
-Vithoba Temple :-
+**Vithoba Temple:**
 It was built in the planet Patankar with the help of local citizens.
 He hails from Priol village of Patankar origin.
 They used to buy spice crops from villages and sell them to Portuguese traders.
@@ -170,12 +170,9 @@ Every issue of this magazine was in our collection.
 One of the Patankars, Bayane, one of the Patankars, came here to take care of the house and the temple, and his close relatives Bakre came here and the Bakre family also settled here.
 
 
-Paikdev Temple :-
+**Paikdev Temple:**
 Paikdev temple is located very close to the present site where there is a big tree of ghotingam tree, and a fence is built around it.
-
-<!-- 12 -->
-
-In the year nineteen twenty-two Mr. Vishnu Bhise (who later settled at Kasavali) took the initiative and built it in the present place while renovating it, and sixty years later in the year 1919, this new temple was built.
+<!-- 12 --> In the year 1922, Mr. Vishnu Bhise (who later settled at Cansaulim) took the initiative and built it in the present place while renovating it, and sixty years later in the year 1919, this new temple was built.
 A miracle happened while building the new temple.
 After the walls of the sanctum sanctorum were completed, the cement was removed, but the next day, the cement on the wall behind the idol had fallen off, and the area had formed an eye-like shape.
 Immediately the cement was removed again and the lime was also removed, but the same thing happened again and that too at the same place.
@@ -187,21 +184,23 @@ After that this type was stopped.
 
 <!-- 13 -->
 
-Datta Temple :-
+**Datta Temple:**
 Sapre family started worshiping it by building a small temple here in 1874 and it was restored in December 1978.
 
-Paikamand :-
+**Paikamand:**
 This is the mother-in-law of Lord Paikdev.
 The Saraswat Brahmin community of the village maintains it.
 Recently this building has been beautifully renovated.
 
-Ramnath Temple:-
+**Ramnath Temple:**
 Palevi of Sri Ramnath Vatya of Ramanathamal, Sateri of Kotarli.
 Population came to recent areas due to fever epidemics.
 Ramnath was lonely.
 Despite being the village god, no one questioned him and the main part of the village, which was once deserted, has come to the Ramanathamal area.
 
 <!-- 14 -->
+
+---
 
 As mentioned in the beginning, when our ancestors settled at Bena, this surrounding area was uninhabited.
 It is not even that they founded the Sanguem village, because there were Marathas and Masurkars before them who owned large tracts of land at Damal and Cotarli.
@@ -220,7 +219,7 @@ In such a manner the village was buzzing.
 We Benkar Nadkarni were the land owners of all these areas.
 You may wonder, how come all this land came under our ownership?
 Did we buy it from someone or did someone give it to us?
-I wondered this myself, but I didn't raise it with anyone, because as I was told that our own land was no longer ours after our grandfather had sold it.
+I wondered this myself, but I didn't raise it with anyone because as I was told that our own land was no longer ours after our grandfather had sold it.
 Someone would have said that he is raising this question because he does not have land.
 A well-educated youth of our family also once posed this question to me.
 Where did these lands come to our ancestors, did they buy them? That was his question.
@@ -248,10 +247,10 @@ Even 55 years ago, the land had no value.
 <!-- 17 -->
 
 
-A glimpse of the value of money and land in the olden days
+## A glimpse on the value of money and land in the olden days
 
 Our home Ganeshotsav is common.
-But Kikirbamb (Father of K. Avandhoot Nadkarni who worked in Union Bank) used to look after its arrangement, responsibility and expenditure side.
+But Kikirbaab (father of K. Avadhut Nadkarni who worked in Union Bank) used to look after its arrangement, responsibility and expenditure side.
 Anjunan also his own family Sangle' some Banghete.
 The remaining families bring camphor, incense, matvi fruits.
 Nevedya does and shows.
@@ -270,16 +269,16 @@ The reason for going to Kosambe was that because he was a physician, he was resp
 This tension would come to us only if it was not resolved there.
 That means the court and the High Court.
 Now if it doesn't settle here too, then the Supreme Court, Raje Saundhekar of Nagesh. Sanguem, Quepem, Ponda and Canacona four talukas in Goa (they were called Novas Conquistas -- New Conquests) were ruled by Saundhekars.
-The Portuguese ruled Goa for four and a half hundred years only in four taluks (Velhas Conquistas -- Old Conquests) namely Salcete, Tiswadi (Ilhas), Mormugao and Bardez.
+The Portuguese ruled Goa for four and a half hundred years only in four taluks (Velhas Conquistas -- Old Conquests) namely Salcete, Tiswadi, Mormugao and Bardez.
 He bought the above four talukas along with Sanguem from the Sondhekars after three and a half hundred years, i.e. only one hundred years before moving from Goa.
 
 <!-- 19 -->
 
-Notable People from the small village of Sanguem
+## Notable people from the village of Sanguem
 
-Pioneers in Literature -
+### Pioneers in Literature
 
-Shri. Venkatesh Anant Narvekar :-
+**Shri. Venkatesh Anant Narvekar:**
 That is, grammar was written.
 Interestingly, this grammar is from poems.
 The said grammar book was approved by the then Government of Bombay Province (i.e. West Maharashtra, Mysore State, Gujarat) for teaching in third standard.
@@ -289,27 +288,27 @@ People used to come to him from all corners of Goa.
 
 <!-- 20 -->
 
-Mr. Narayan Anant Patankar :-
+**Mr. Narayan Anant Patankar:**
 As mentioned earlier, he was the editor of 'Jyotirvijnana' magazine.
 
-Mr. Bablo Kosambe (Apa) :-
+**Mr. Bablo Kosambe (Apa):**
 The religious poems written by him, the poem 'Paha Divya Murti Swari Ashwavari' under the image of Paikadeva on Paikamanda, also the poem “Savlo Peetayalagi” on the temple of Maruti near the Datta Mandira, besides his poem on the shrine of Kandipurush on the staff.
 But now it is not visible.
 
-Mr. Sarvottam Manerkar :-
+**Mr. Sarvottam Manerkar:**
 He settled here from Kurpe.
 The satirical poems he wrote on the then municipal councilors became very popular at that time.
 
 <!-- 21 -->
 
-In the field of Drama and Arts -
+### In the fields of Drama and Arts
 
-Mr. Jaykrishnabab Bhatikar :-
+**Mr. Jaykrishnabab Bhatikar:**
 He belongs to Bhati but has been a resident of Sanga since childhood.
 Do not write anything about them. Only the title of pride of Sange was given to him.
 
-The above mentioned Mr. Sarvottam Manerkar -
-He was uncle of Jayakrishnabab Bhatikar.
+The above mentioned **Mr. Sarvottam Manerkar:**
+He was uncle of Jayakrishnabaab Bhatikar.
 It was also a singing nut. no. He played the role of Darhydhara in the play Manapaman.
 In Shimgotsava Shri. Damaji Kosambe, Damodar Salelkar, Gajanan Sambari, Shivaji Manerkar, Nilakant Bhatikar, as well as from the play of Vaishya Samaj. Mr. Sadanand Govekar and Ryat Samaj. Krishna Mapari is remarkable.
 Bhajani Artist Shri. Solid: Sham Shigaonkar and Nilakant Bhatikar.
@@ -317,40 +316,39 @@ Bhajani Artist Shri. Solid: Sham Shigaonkar and Nilakant Bhatikar.
 
 <!-- 22 -->
 
-Artist who made a name for themselves by going outside the village
+### Artists who made a name for themselves by going outside the village
 
-Mrs. Pathare - nee Kamal Sangekar :-
+**Mrs. Pathare nee Kamal Sangekar:**
 She was an artist of Bombay Akashwani.
 His classical music programs are often aired on Mumbai Akanshvani.
 
-Mrs. Kanchan Sontakke - nee Kanchan Sangekar :-
+**Mrs. Kanchan Sontakke nee Kanchan Sangekar:**
 Not only are these good dancers, but they are also running an organization based on their art.
 He has dedicated himself to serving deaf-mute and blind children through this organization.
 
-Avadabai Sangekar:-
+**Mrs. Avadabai Sangekar:**
 She was a popular classical music singer of that time.
 
 <!-- 23 -->
 
-Mrs. Ranjana Kashyap :-
+**Mrs. Ranjana Kashyap:**
 The daughter of Avadabai Sangekar.
-He had followed his mother's legacy properly.
-His singing programs were often held on Panaji Kendra on Aakashvani AIR.
+She followed her mother's legacy well.
+Her singing programs were often held on Panaji Kendra on Aakashvani AIR.
 
-Freedom Fighter - Shri. Vishnu Harishchandra Naik and Mr. Sadanand Nadkarni :-
-Both of them had participated in the liberation struggle of Gomantakiyas against the Portuguese in 1954.
-He helped Sindhu and Deshpande to come to Goa.
+### Freedom fighters
+
+**Shri. Vishnu Harishchandra Naik** and **Mr. Sadanand Nadkarni:**
+Both of them had participated in the liberation struggle of Goans against the Portuguese in 1954.
+They helped Sindhu and Deshpande to come to Goa.
 
 Agricultural education was given at Sanguem in the era when there was no facility of education.
-The Portuguese must have realized that the entire region was agricultural.
-
-<!-- 24 -->
-
-This agricultural school 'Escola Agricola' was being run in the building of the present primary health center.
+The Portuguese were aware of the fact that the entire region was agricultural.
+<!-- 24 --> This agricultural school 'Escola Agricola' was being run in the building of the present primary health center.
 Agricultural training was given here.
 Shripad Shet Shirasat, who lived here for many years, had trained and obtained a certificate from this farming school.
 The said certificate is still preserved by his family.
-As a supplementary business of this agricultural school, vegetables were cultivated in places like Bhaiilpar, Kailapar, Jampar.
+As a supplementary business of this agricultural school, vegetables were cultivated in places like Boilapar, Coilapar, Jampar.
 
-Sanguem
+Sanguem \
 10.06.2010
